@@ -1,0 +1,57 @@
+body {
+  font-size: 1em;
+  font-family: 'Lato', sans-serif; }
+
+p#countdown {
+  font-weight: bold; }
+
+h1#page-title {
+  font-family: 'Amatic SC', cursive;
+  font-size: 5.5em;
+  text-align: center; }
+
+h2#gender {
+  font-size: 2em; }
+
+#acolyte-typing {
+  color: #7e7e7e;
+  font-size: .85em; }
+
+#chat-list {
+  height: 70vh;
+  overflow-y: scroll; }
+
+md-input-container {
+  width: 99%; }
+
+.md-fab.gender-icon {
+  padding-top: 5px;
+  padding-left: 10px; }
+
+/*
+ * Flash animation
+ * https://webdesignerhut.com/5-animations-using-css-keyframes/
+ */
+@-webkit-keyframes flash {
+  0%, 50%, 100% {
+    opacity: 1; }
+  25%, 75% {
+    opacity: 0; } }
+@keyframes flash {
+  0%, 50%, 100% {
+    opacity: 1; }
+  25%, 75% {
+    opacity: 0; } }
+.animated {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite; }
+
+.flash {
+  -webkit-animation-name: flash;
+  animation-name: flash; }
+
+/*# sourceMappingURL=styles.css.map */
