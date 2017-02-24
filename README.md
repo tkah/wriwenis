@@ -26,4 +26,4 @@ python app.py
 
 Building
 --------
-[Jade](https://www.npmjs.com/package/jade) and [SASS](http://sass-lang.com/) were used to build up the HTML and CSS respectively. Changes to files in __src/js__, __src/jade__ and __src/sass__ can be compiled with tasks in gulpfile.js. Grab gulp at [gulp](http://gulpjs.com/).
+[Jade](https://www.npmjs.com/package/jade) and [SASS](http://sass-lang.com/) were used to build up the HTML and CSS respectively. Changes to files in __src/js__, __src/jade__ and __src/sass__ can be compiled with tasks in gulpfile.js ([gulp](http://gulpjs.com/)).
