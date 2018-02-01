@@ -6,7 +6,7 @@ Markov generated sentences are tweeted to the [@wriwenis](https://twitter.com/wr
 
 Demo
 ----
-[Acolytes of Our Eternal Wriwenis](http://torrankaleke.com/wriwenis/#/home/)
+[Acolytes of Our Eternal Wriwenis](https://torrankahleck.com/wriwenis/#/home/)
 
 Running
 --------
